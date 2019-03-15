@@ -1,0 +1,10 @@
+jQuery('document').redy(function(){
+
+    
+})
+ 
+
+
+
+
+
