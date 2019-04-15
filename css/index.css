@@ -3,10 +3,20 @@
 
 /* help
 
-tag { 
+tag {
   parametr: property;
 }
 
 to 'id' appeal via '#'
 to 'class' appeal via '.'
  */
+button {
+    width: 74px;
+    height: 20px;
+    color: #171616;
+    font-family: Colibry;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 9.16px;
+    text-transform: uppercase;
+}
